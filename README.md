@@ -1,6 +1,7 @@
 # SnapChart
 An Augmented Reality powered analytical toolkit to enhance interactivity in a collaborative environment.
 
+Demo video: https://youtu.be/H_WvXTPH5dI
 
 ## Project Abstract
 As emerging technology advances during the past decade, more and more cutting edge software, mostly in gaming, have been made available to the general public. This project, on the other hand, has provided another perspective of the usage of Augmented Reality application - Immersive Analytics - in every day team collaboration. In this research, we conducted qualitative contextual inquiries in which insights were addressed and drawn to develop an immersive analytical toolkit prototype, in the form of an AR data visualisation application, and is later proven to helps enhance interactivity in a collaborative environment through expert heuristic evaluation and user testing. We believed that with further refinement, the proposed toolkit, SnapChart, will fill the gap between complex academic research equipment and easy-to-start commercial applications in Immersive Analytics, and furthermore benefit the users' interactivity experiences in a collaborative environment.
